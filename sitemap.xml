@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://zh.ingress.wiki/</loc>
+         <lastmod>2023-12-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zh.ingress.wiki/OC-guide/</loc>
+         <lastmod>2023-12-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zh.ingress.wiki/strart_guide/</loc>
+         <lastmod>2023-12-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zh.ingress.wiki/strart_guide/1.%E8%AE%A4%E8%AF%86Ingress/</loc>
+         <lastmod>2023-12-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
