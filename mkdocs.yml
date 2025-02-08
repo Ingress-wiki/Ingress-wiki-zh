@@ -14,6 +14,8 @@ markdown_extensions:
   - pymdownx.caret #下划线
   - pymdownx.mark #文本高亮
   - pymdownx.tilde #删除线
+  - toc:
+      permalink: "#"
 
 # Theme
 theme:
@@ -44,8 +46,14 @@ nav:
   - 入门指南: 
     - 为何热爱: 入门指南/start_guide.md
     - 快速开始: 入门指南/快速开始.md
-    - 初识页面: 入门指南/初识页面.md
+    - 初识页面: 入门指南/初识页面/初识页面.md
     - 与Portal交互: 入门指南/与Portal交互.md
-  - OC指南: /OC-guide
+    - 等级系统: 入门指南/等级系统.md
+    - 徽章系统: 入门指南/徽章系统.md
+    - 任务系统: 入门指南/任务系统.md
+    - 游戏物品: 入门指南/游戏物品.md
+    - 游戏活动: 入门指南/游戏活动.md
+  - 进阶指南:
+    - OC指南: 进阶指南/OC-guide.md
   - 相关资料: 相关资料.md  
   - 友情链接: 友情链接.md
